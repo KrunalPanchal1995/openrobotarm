@@ -1,6 +1,6 @@
 # Session 1: A robot arm is a chain of links and joints
 
-[Session 1 — हिन्दी](README.hi.md) · [Session 1 — മലയാളം](README.ml.md) · [Session 1 — தமிழ்](README.ta.md)
+[Session 1 — हिन्दी](README.hi.md) · [Session 1 — മലയാളം](README.ml.md) · [Session 1 — தமிழ்](README.ta.md) · [Session 1 — తెలుగు](README.te.md)
 
 *Level 1 (conceptual interactive model) · about 60 minutes · openrobotarm*
 
